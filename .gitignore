@@ -2,20 +2,20 @@
 # OS X
 ############################
 
-.DS_Store
-.AppleDouble
-.LSOverride
-Icon
-.Spotlight-V100
-.Trashes
-._*
+# .DS_Store
+# .AppleDouble
+# .LSOverride
+# Icon
+# .Spotlight-V100
+# .Trashes
+# ._*
 
 
 ############################
 # Linux
 ############################
 
-*~
+# *~
 
 
 ############################
@@ -65,11 +65,11 @@ $RECYCLE.BIN/
 # Logs and databases
 ############################
 
-.tmp
-*.log
-*.sql
-*.sqlite
-*.sqlite3
+# .tmp
+# *.log
+# *.sql
+# *.sqlite
+# *.sqlite3
 
 
 ############################
@@ -106,7 +106,7 @@ coverage
 # Strapi
 ############################
 
-.env
+# .env
 license.txt
 exports
 *.cache
